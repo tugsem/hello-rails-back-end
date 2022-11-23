@@ -18,9 +18,12 @@ To get a local copy up and running follow these simple example steps.
 - Follow these steps to run the app:
   - run `bundle`
   - run `rails db:create`,`rails db:migrate`,`rails db:seed` to create database
+  - run `rails server` to open the server
+  - clone the react-repo below and run `npm install` and `npm run start` on a new tab.
+  - Refresh the page to see randomly selected messages from the rails api
 
 ## Link to the React App
- coming soon...
+ https://github.com/tugsem/hello-react-front-end
 
 ## Authors
 
